@@ -25,6 +25,8 @@ Unit 2
 
 ![Screenshot (60)](https://user-images.githubusercontent.com/101420117/227669238-88735b22-b7d1-4245-925e-04f4521cd05f.png)
 
+Δεν υπάρχει dailiy 2
+
 
 Unit 3
 ---------------
@@ -34,6 +36,8 @@ Unit 3
 ![Screenshot (26)](https://user-images.githubusercontent.com/101420117/227669269-a60af376-3347-4ba3-adfc-771e6b01de88.png)
 
 
+Δεν υπάρχει dailiy 3
+
 Unit 4
 ---------------
 Επειδή δεν έιχα καταφέρει να συνδιάσω (ακόμα) τα unit 2 + 3, κατέβασα την ήδη υπάρον πόλη. Ξεκίνησα τη διαδικασία εισαγωγής των των animated props. 
@@ -42,6 +46,10 @@ Unit 4
 
 
 ![Screenshot (55)](https://user-images.githubusercontent.com/101420117/227671516-d061374f-b96d-42a6-9bd7-d08d813d3de2.png)
+
+
+Yπάρχει dailiy 4
+
 
 
 # 2nd Deliverable
