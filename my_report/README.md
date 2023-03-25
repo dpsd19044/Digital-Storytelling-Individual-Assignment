@@ -2,7 +2,7 @@
 
 ### First and Last Name: Dimitris Ioannis Kamperakis
 ### University Registration Number: dpsd19044
-### GitHub Personal Profile: xxx
+### GitHub Personal Profile: https://github.com/dpsd19044
 ### Digital-Storytelling-Individual-Assignment: xxx
 
 # Introduction
