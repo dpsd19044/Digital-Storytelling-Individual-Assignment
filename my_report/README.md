@@ -52,6 +52,7 @@ Yπάρχει dailiy 4
 
 
 
+
 # 2nd Deliverable
 Unit 5
 ---------------
@@ -65,6 +66,18 @@ Yπάρχει dailiy 5.
 Αλλά όταν έκανα τα απαραίτητα βήματα για record και export σε .mp4 σύμφωνα με τις οδηγίες στο unit 7 το βίντεο αποθηκευόταν με "προβληματικό" scale. Οπότε έκανα screen record για να παρουσιάσω το μεχρι τώρα αποτέλεσμα.
 
 https://user-images.githubusercontent.com/101420117/236696290-a18f0b4f-db1d-4abc-8c90-7357856e5cf0.mp4
+
+Unit 6
+---------------
+Δεν έγινε
+
+Unit 7
+---------------
+Ακολούθησα τα βήματα του tutorial και... δημιουργησα τον καπνό αι έκανα το χρώμα του σε πρασιονπο.
+![Screenshot (108)](https://user-images.githubusercontent.com/101420117/236702319-a20d0581-dafd-4ed1-8014-f90a012c6cf5.png)
+
+
+Yπάρχει dailiy 4
 
 
 
