@@ -53,6 +53,22 @@ Yπάρχει dailiy 4
 
 
 # 2nd Deliverable
+Unit 5
+---------------
+Πριν ξεκινήσω να υλοποιώ τα βήματα του tutorial, άνοιξα το αρχείο και όλα τα στοιχεία του Hierarchy τα εμφάνιζε μωβ στo scene. Οπότε επέλεξα το Materials και την επιλογή Universal render τη άλλαξα σε standar ώστε να φαίνονται τα στοιχεία με το επιθυμητό material. <br>
+Στην συνέχεια υλοποιήσα όλα τα βήματα των οδηγιών.
+
+![Steps_In_Timeline](https://user-images.githubusercontent.com/101420117/236696630-0dfece1f-9b0a-422f-b595-6ca0a571213f.png)
+
+
+Yπάρχει dailiy 5.
+Αλλά όταν έκανα τα απαραίτητα βήματα για record και export σε .mp4 σύμφωνα με τις οδηγίες στο unit 7 το βίντεο αποθηκευόταν με "προβληματικό" scale. Οπότε έκανα screen record για να παρουσιάσω το μεχρι τώρα αποτέλεσμα.
+
+https://user-images.githubusercontent.com/101420117/236696290-a18f0b4f-db1d-4abc-8c90-7357856e5cf0.mp4
+
+
+
+
 
 
 # 3rd Deliverable 
