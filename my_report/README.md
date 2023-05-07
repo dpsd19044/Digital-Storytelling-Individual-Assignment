@@ -76,8 +76,26 @@ Unit 7
 Ακολούθησα τα βήματα του tutorial και... δημιουργησα τον καπνό αι έκανα το χρώμα του σε πρασιονπο.
 ![Screenshot (108)](https://user-images.githubusercontent.com/101420117/236702319-a20d0581-dafd-4ed1-8014-f90a012c6cf5.png)
 
+Στην συνεχεια μου χάθηκαν ξανά τα mterials και αφου έψαξα μέσα το περιβάλλον του Unity το επανέφερα σε type Lit.
+![Screenshot (109)](https://user-images.githubusercontent.com/101420117/236702431-72f1a84a-b886-4e04-858e-59c4d760e249.png)
 
-Yπάρχει dailiy 4
+Αλλά δεν κατάφερα να "εμφανήσω" τον καπνό.
+![Screenshot (112)](https://user-images.githubusercontent.com/101420117/236702434-c20d0e18-8b0c-4212-aeb9-3ab1b75f3cbb.png)
+
+Στην συνέχεια έκανα εισαγωγή των ήχων.
+![Screenshot (113)](https://user-images.githubusercontent.com/101420117/236702465-e0c45124-981f-4f7e-9b7d-8ebe4d27a2de.png)
+
+Έφτιαξα τον τίτλο "::The::Chase::"
+![Screenshot (115)](https://user-images.githubusercontent.com/101420117/236702499-b828ee86-3b28-474b-870e-e947852ba663.png)
+
+
+Και δεν κατάφερα να τον κάνω να συμβαδίσει με το υπόλοιπο animation.
+![Screenshot (117)](https://user-images.githubusercontent.com/101420117/236702537-72dc2ddd-3fe1-40e3-ba3e-e53a9eec283d.png)
+
+Επίσης δεν δούλευε το "Add Key"
+![Screenshot (118)](https://user-images.githubusercontent.com/101420117/236702560-774f682d-cd15-481f-8640-c8545ff75007.png)
+
+Yπάρχει dailiy 7
 
 
 
